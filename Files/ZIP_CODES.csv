@@ -1,4 +1,4 @@
-zip_code,latitude,longitude,city,state,county,zip_class
+zip_code,latitude,longitude,city,state_id,county,zip_class
 "00501","+40.922326","-072.637078","HOLTSVILLE","NY","SUFFOLK","UNIQUE"
 "00544","+40.922326","-072.637078","HOLTSVILLE","NY","SUFFOLK","UNIQUE"
 "00601","+18.165273","-066.722583","ADJUNTAS","PR","ADJUNTAS","STANDARD"

@@ -1,4 +1,4 @@
-name,abbreviation,capital,most_populous_city,population,square_miles,time_zone_1,time_zone_2,dst
+name,state_id,capital,most_populous_city,population,square_miles,time_zone_1,time_zone_2,dst
 ALABAMA,AL,Montgomery,Birmingham,"4,708,708","52,423",CST (UTC-6),EST (UTC-5),YES
 ALASKA,AK,Juneau,Anchorage,"698,473","656,425",AKST (UTC-09) ,HST (UTC-10) ,YES
 ARIZONA,AZ,Phoenix,Phoenix,"6,595,778","114,006",MT (UTC-07),,NO
