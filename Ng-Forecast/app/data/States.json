@@ -1,0 +1,502 @@
+{
+  "AL": {
+    "name": "ALABAMA",
+    "capital": "Montgomery",
+    "mostPopulousCity": "Birmingham",
+    "population": 4708708.0,
+    "squareMiles": 52423.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "EST (UTC-5)",
+    "dst": "YES"
+  },
+  "AK": {
+    "name": "ALASKA",
+    "capital": "Juneau",
+    "mostPopulousCity": "Anchorage",
+    "population": 698473.0,
+    "squareMiles": 656425.0,
+    "timeZone1": "AKST (UTC-09) ",
+    "timeZone2": "HST (UTC-10) ",
+    "dst": "YES"
+  },
+  "AZ": {
+    "name": "ARIZONA",
+    "capital": "Phoenix",
+    "mostPopulousCity": "Phoenix",
+    "population": 6595778.0,
+    "squareMiles": 114006.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "NO"
+  },
+  "AR": {
+    "name": "ARKANSAS",
+    "capital": "Little Rock",
+    "mostPopulousCity": "Little Rock",
+    "population": 2889450.0,
+    "squareMiles": 53182.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "CA": {
+    "name": "CALIFORNIA",
+    "capital": "Sacramento",
+    "mostPopulousCity": "Los Angeles",
+    "population": 36961664.0,
+    "squareMiles": 163707.0,
+    "timeZone1": "PT (UTC-8)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "CO": {
+    "name": "COLORADO",
+    "capital": "Denver",
+    "mostPopulousCity": "Denver",
+    "population": 5024748.0,
+    "squareMiles": 104100.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "CT": {
+    "name": "CONNECTICUT",
+    "capital": "Hartford",
+    "mostPopulousCity": "Bridgeport",
+    "population": 3518288.0,
+    "squareMiles": 5544.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "DE": {
+    "name": "DELAWARE",
+    "capital": "Dover",
+    "mostPopulousCity": "Wilmington",
+    "population": 885122.0,
+    "squareMiles": 1954.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "FL": {
+    "name": "FLORIDA",
+    "capital": "Tallahassee",
+    "mostPopulousCity": "Jacksonville",
+    "population": 18537969.0,
+    "squareMiles": 65758.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "CST (UTC-6)",
+    "dst": "YES"
+  },
+  "GA": {
+    "name": "GEORGIA",
+    "capital": "Atlanta",
+    "mostPopulousCity": "Atlanta",
+    "population": 9829211.0,
+    "squareMiles": 59441.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "HI": {
+    "name": "HAWAII",
+    "capital": "Honolulu",
+    "mostPopulousCity": "Honolulu",
+    "population": 1295178.0,
+    "squareMiles": 10932.0,
+    "timeZone1": "HST (UTC-10) ",
+    "timeZone2": "",
+    "dst": "NO"
+  },
+  "ID": {
+    "name": "IDAHO",
+    "capital": "Boise",
+    "mostPopulousCity": "Boise",
+    "population": 1545801.0,
+    "squareMiles": 83574.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "PT (UTC-8)",
+    "dst": "YES"
+  },
+  "IL": {
+    "name": "ILLINOIS",
+    "capital": "Springfield",
+    "mostPopulousCity": "Chicago",
+    "population": 12910409.0,
+    "squareMiles": 57918.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "IN": {
+    "name": "INDIANA",
+    "capital": "Indianapolis",
+    "mostPopulousCity": "Indianapolis",
+    "population": 6423113.0,
+    "squareMiles": 36420.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "CST (UTC-6)",
+    "dst": "YES"
+  },
+  "IA": {
+    "name": "IOWA",
+    "capital": "Des Moines",
+    "mostPopulousCity": "Des Moines",
+    "population": 3007856.0,
+    "squareMiles": 56276.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "KS": {
+    "name": "KANSAS",
+    "capital": "Topeka",
+    "mostPopulousCity": "Wichita",
+    "population": 2818747.0,
+    "squareMiles": 82282.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "KY": {
+    "name": "KENTUCKY",
+    "capital": "Frankfort",
+    "mostPopulousCity": "Louisville",
+    "population": 4314113.0,
+    "squareMiles": 40411.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "CST (UTC-6)",
+    "dst": "YES"
+  },
+  "LA": {
+    "name": "LOUISIANA",
+    "capital": "Baton Rouge",
+    "mostPopulousCity": "New Orleans",
+    "population": 4492076.0,
+    "squareMiles": 51843.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "ME": {
+    "name": "MAINE",
+    "capital": "Augusta",
+    "mostPopulousCity": "Portland",
+    "population": 1318301.0,
+    "squareMiles": 35387.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MD": {
+    "name": "MARYLAND",
+    "capital": "Annapolis",
+    "mostPopulousCity": "Baltimore",
+    "population": 5699478.0,
+    "squareMiles": 12407.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MA": {
+    "name": "MASSACHUSETTS",
+    "capital": "Boston",
+    "mostPopulousCity": "Boston",
+    "population": 6593587.0,
+    "squareMiles": 10555.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MI": {
+    "name": "MICHIGAN",
+    "capital": "Lansing",
+    "mostPopulousCity": "Detroit",
+    "population": 9969727.0,
+    "squareMiles": 96810.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "CST (UTC-6)",
+    "dst": "YES"
+  },
+  "MN": {
+    "name": "MINNESOTA",
+    "capital": "Saint Paul",
+    "mostPopulousCity": "Minneapolis",
+    "population": 5266214.0,
+    "squareMiles": 86943.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MS": {
+    "name": "MISSISSIPPI",
+    "capital": "Jackson",
+    "mostPopulousCity": "Jackson",
+    "population": 2951996.0,
+    "squareMiles": 48434.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MO": {
+    "name": "MISSOURI",
+    "capital": "Jefferson City",
+    "mostPopulousCity": "Kansas City",
+    "population": 5987580.0,
+    "squareMiles": 69709.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "MT": {
+    "name": "MONTANA",
+    "capital": "Helena",
+    "mostPopulousCity": "Billings",
+    "population": 974989.0,
+    "squareMiles": 147046.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "NE": {
+    "name": "NEBRASKA",
+    "capital": "Lincoln",
+    "mostPopulousCity": "Omaha",
+    "population": 1796619.0,
+    "squareMiles": 77358.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "NV": {
+    "name": "NEVADA",
+    "capital": "Carson City",
+    "mostPopulousCity": "Las Vegas",
+    "population": 2643085.0,
+    "squareMiles": 110567.0,
+    "timeZone1": "PT (UTC-8)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "NH": {
+    "name": "NEW HAMPSHIRE",
+    "capital": "Concord",
+    "mostPopulousCity": "Machester",
+    "population": 1324575.0,
+    "squareMiles": 9351.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "NJ": {
+    "name": "NEW JERSEY",
+    "capital": "Trenton",
+    "mostPopulousCity": "Newark",
+    "population": 8707739.0,
+    "squareMiles": 8722.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "NM": {
+    "name": "NEW MEXICO",
+    "capital": "Santa Fe",
+    "mostPopulousCity": "Albuquerque",
+    "population": 2009671.0,
+    "squareMiles": 121593.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "NY": {
+    "name": "NEW YORK",
+    "capital": "Albany",
+    "mostPopulousCity": "New York",
+    "population": 19541453.0,
+    "squareMiles": 54475.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "NC": {
+    "name": "NORTH CAROLINA",
+    "capital": "Raleigh",
+    "mostPopulousCity": "Charlotte",
+    "population": 9380884.0,
+    "squareMiles": 53821.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "ND": {
+    "name": "NORTH DAKOTA",
+    "capital": "Bismarck",
+    "mostPopulousCity": "Fargo",
+    "population": 646844.0,
+    "squareMiles": 70704.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "OH": {
+    "name": "OHIO",
+    "capital": "Columbus",
+    "mostPopulousCity": "Columbus",
+    "population": 11542645.0,
+    "squareMiles": 44828.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "OK": {
+    "name": "OKLAHOMA",
+    "capital": "Oklahoma City",
+    "mostPopulousCity": "Oklahoma City",
+    "population": 3687050.0,
+    "squareMiles": 69903.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "OR": {
+    "name": "OREGON",
+    "capital": "Salem",
+    "mostPopulousCity": "Portland",
+    "population": 3825657.0,
+    "squareMiles": 98386.0,
+    "timeZone1": "PT (UTC-8)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "PA": {
+    "name": "PENNSYLVANIA",
+    "capital": "Harrisburg",
+    "mostPopulousCity": "Philadelphia",
+    "population": 12604767.0,
+    "squareMiles": 46058.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "RI": {
+    "name": "RHODE ISLAND",
+    "capital": "Providence",
+    "mostPopulousCity": "Providence",
+    "population": 1053209.0,
+    "squareMiles": 1545.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "SC": {
+    "name": "SOUTH CAROLINA",
+    "capital": "Columbia",
+    "mostPopulousCity": "Columbia",
+    "population": 4561242.0,
+    "squareMiles": 32007.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "SD": {
+    "name": "SOUTH DAKOTA",
+    "capital": "Pierre",
+    "mostPopulousCity": "Sioux Falls",
+    "population": 812383.0,
+    "squareMiles": 77121.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "TN": {
+    "name": "TENNESSEE",
+    "capital": "Nashville",
+    "mostPopulousCity": "Memphis",
+    "population": 6296254.0,
+    "squareMiles": 42146.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "EST (UTC-5)",
+    "dst": "YES"
+  },
+  "TX": {
+    "name": "TEXAS",
+    "capital": "Austin",
+    "mostPopulousCity": "Houston",
+    "population": 24782302.0,
+    "squareMiles": 268601.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "MT (UTC-07)",
+    "dst": "YES"
+  },
+  "UT": {
+    "name": "UTAH",
+    "capital": "Salt Lake City",
+    "mostPopulousCity": "Salt Lake City",
+    "population": 2784572.0,
+    "squareMiles": 84904.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "VT": {
+    "name": "VERMONT",
+    "capital": "Montpelier",
+    "mostPopulousCity": "Burlington",
+    "population": 621760.0,
+    "squareMiles": 9615.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "VA": {
+    "name": "VIRGINIA",
+    "capital": "Richmond",
+    "mostPopulousCity": "Virginia Beach",
+    "population": 7882590.0,
+    "squareMiles": 42769.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "WA": {
+    "name": "WASHINGTON",
+    "capital": "Olympia",
+    "mostPopulousCity": "Seattle",
+    "population": 6664195.0,
+    "squareMiles": 71303.0,
+    "timeZone1": "PT (UTC-8)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "WV": {
+    "name": "WEST VIRGINIA",
+    "capital": "Charleston",
+    "mostPopulousCity": "Charleston",
+    "population": 1819777.0,
+    "squareMiles": 24231.0,
+    "timeZone1": "EST (UTC-5)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "WI": {
+    "name": "WISCONSIN",
+    "capital": "Madison",
+    "mostPopulousCity": "Milwaukee",
+    "population": 5654774.0,
+    "squareMiles": 65503.0,
+    "timeZone1": "CST (UTC-6)",
+    "timeZone2": "",
+    "dst": "YES"
+  },
+  "WY": {
+    "name": "WYOMING",
+    "capital": "Cheyenne",
+    "mostPopulousCity": "Cheyenne",
+    "population": 544270.0,
+    "squareMiles": 97818.0,
+    "timeZone1": "MT (UTC-07)",
+    "timeZone2": "",
+    "dst": "YES"
+  }
+}

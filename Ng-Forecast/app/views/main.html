@@ -1,0 +1,14 @@
+<h1 class="page-header">Zip Code Data Test</h1>
+  <div class="row">
+    <div class="col-lg-6">
+      <p>Enter your zip code and click submit:</p>
+      <input ng-model="selectedZipCode" type="text"/>
+      <button ng-click="getDataForZipCode(selectedZipCode)">Submit</button>
+
+    </div>
+    <div class="col-lg-6">
+      <p ng-if="zipCodeData">You've selected {{zipCodeData.city}}, {{zipCodeData.state.name}}</p>
+      <p ng-if="briefForecast">The forecast is {{briefForecast}}</p>
+    </div>
+  </div>
+
